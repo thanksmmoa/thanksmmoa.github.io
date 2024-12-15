@@ -20,7 +20,7 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "감사모아- 5개씩 감사일기 쓰기,다이어리"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "세이모아"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -116,7 +116,7 @@ author:
   name             : "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+ # location         : "Somewhere"
   email            :
   links:
     - label: "Email"
@@ -137,6 +137,15 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+
+# 네비게이션 바
+header:
+  - name: "Home"
+    link: "/"
+  - name: "Privacy Policy"
+    link: "/privacy-policy"
+  - name: "Terms of Service"
+    link: "/terms-of-service"
 
 # Site Footer
 footer:
