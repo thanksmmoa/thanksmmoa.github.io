@@ -20,7 +20,7 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "감사모아 -  5개씩 감사일기 쓰기,다이어리"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "세이모아"
+name                     : "감사모아"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
