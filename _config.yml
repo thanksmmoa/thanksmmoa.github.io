@@ -124,6 +124,8 @@ author:
       # url: "mailto:your.name@email.com"
     - label: "개인정보 처리방침"
       url: "/privacy-policy"
+    - label: 서비스 이용약관
+      url: "/terms-of-service"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
