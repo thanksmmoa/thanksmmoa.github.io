@@ -1,8 +1,6 @@
-** 감사모아 ** 개인정보처리방침
+Introduction
 
- Introduction
-
-감사모아 Inc. (“we”, “our”, or “us”) develops and publishes various mobile applications for smartphones and mobile devices. We are dedicated to protect our users' (“users” or “you”) privacy rights. The purpose of this page is to inform you about our policies with the collection, use, and disclosure of Personally Identifiable Information(“PII”) if anyone decided to use the applications or software offered by us (collectively, the “Service”). If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personally Identifiable Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
+세이모아 Inc. (“we”, “our”, or “us”) develops and publishes various mobile applications for smartphones and mobile devices. We are dedicated to protect our users' (“users” or “you”) privacy rights. The purpose of this page is to inform you about our policies with the collection, use, and disclosure of Personally Identifiable Information(“PII”) if anyone decided to use the applications or software offered by us (collectively, the “Service”). If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personally Identifiable Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
 
 Android Device Permissions Used
 Google Drive, Google Sign-In API permissions
@@ -79,7 +77,7 @@ mmoa442277@gmail.com
 
 
 소개
-감사모아 Inc.(“당사”, “당사” 또는 “당사”)는 스마트폰 및 모바일 장치용 다양한 모바일 애플리케이션을 개발하고 게시합니다. 당사는 사용자(“사용자” 또는 “귀하”)의 개인정보 보호 권리를 보호하기 위해 최선을 다하고 있습니다.
+세이모아 Inc.(“당사”, “당사” 또는 “당사”)는 스마트폰 및 모바일 장치용 다양한 모바일 애플리케이션을 개발하고 게시합니다. 당사는 사용자(“사용자” 또는 “귀하”)의 개인정보 보호 권리를 보호하기 위해 최선을 다하고 있습니다.
 이 페이지의 목적은 사용자께서 제공하시는 개인정보가 어떠한 용도와 방식으로 이용되고 있으며, 개인정보보호를 위해 어떠한 조치가 취해지고 있는지 알려드립니다. 관계 법령 및 개인정보 취급방침에 따라 사용자 개인정보 보호에 최선을 다합니다.
 
 사용된 Android 기기 권한
