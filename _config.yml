@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "세이모아"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "**감사모아**는 매일 일상의 감사함을 기록할 수 있는 일기 어플입니다. 또한 일기 내용은 Google Drive를 사용하여 백업할 수 있습니다."
  # location         : "Somewhere"
   email            : mmoa442277@gmail.com
   links:
