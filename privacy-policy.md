@@ -1,7 +1,5 @@
 ** 감사모아 ** 개인정보처리방침
 
-<<<<<<< HEAD
-=======
  Introduction
 
 세이모아 Inc. (“we”, “our”, or “us”) develops and publishes various mobile applications for smartphones and mobile devices. We are dedicated to protect our users' (“users” or “you”) privacy rights. The purpose of this page is to inform you about our policies with the collection, use, and disclosure of Personally Identifiable Information(“PII”) if anyone decided to use the applications or software offered by us (collectively, the “Service”). If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personally Identifiable Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
@@ -158,6 +156,4 @@ Google Drive에 저장된 백업 데이터는 앱의 '설정>구글 드라이브
 본 개인정보 보호정책에 관해 질문이 있는 경우 아래 정보를 사용하여 당사에 문의하실 수 있습니다.
 mmoa442277@gmail.com
 
-
->>>>>>> ea51120b5e327bf00dc0bc57dbda224801e95ce4
 
