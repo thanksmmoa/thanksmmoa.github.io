@@ -122,6 +122,8 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
+    - label: "개인정보 처리방침"
+      url: "/privacy-policy"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
